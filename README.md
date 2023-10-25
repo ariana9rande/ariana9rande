@@ -27,6 +27,5 @@ Here are some ideas to get you started:
   
 <h3 align="center">:space_invader: BOJ :space_invader:</h3>
 
-<div align="center">
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ariana9rande)](https://solved.ac/ariana9rande)
-</div>
+

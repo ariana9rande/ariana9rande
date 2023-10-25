@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#
+
 <h3 align="center">:chart_with_upwards_trend: GitHub Stats :chart_with_upwards_trend:   </h3>
   
 <p align="center">
@@ -23,11 +23,8 @@ Here are some ideas to get you started:
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariana9rande&layout=compact&theme=vue">
 </p>
 
-#
-  
 <h3 align="center">:space_invader: BOJ :space_invader:</h3>
 
 <div align="center">
   <img height="150em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ariana9rande">
 </div>
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ariana9rande)](https://solved.ac/ariana9rande) -->

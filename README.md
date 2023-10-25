@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 #
-<h3>:chart_with_upwards_trend: GitHub Stats :chart_with_upwards_trend:   </h3>
+<h3 align="center">:chart_with_upwards_trend: GitHub Stats :chart_with_upwards_trend:   </h3>
   
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ariana9rande&show_icons=true&include_all_commits=true&theme=dracula">
@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 #
   
-<h3>:space_invader: BOJ :space_invader:</h3>
+<h3 align="center">:space_invader: BOJ :space_invader:</h3>
 
 <div align="center">
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ariana9rande)](https://solved.ac/ariana9rande) 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ariana9rande)](https://solved.ac/ariana9rande) 
 </div>

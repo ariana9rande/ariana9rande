@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 #
 <h3>:chart_with_upwards_trend: GitHub Stats :chart_with_upwards_trend:   </h3>
   
-<p>
+<p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ariana9rande&show_icons=true&include_all_commits=true&theme=dracula">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariana9rande&layout=compact&theme=vue">
 </p>
@@ -27,4 +27,6 @@ Here are some ideas to get you started:
   
 <h3>:space_invader: BOJ :space_invader:</h3>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ariana9rande)](https://solved.ac/ariana9rande) 
+<div align="center">
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ariana9rande)](https://solved.ac/ariana9rande) 
+</div>
